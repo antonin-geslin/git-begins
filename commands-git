@@ -1,0 +1,5 @@
+cloner un repo : git clone lien_https/SSH
+
+les 3 commandes de push : git add --all
+			  git commit -m "message de commit EXPLICITE"
+			  git push
