@@ -6,3 +6,6 @@ les 3 commandes de push : git add --all
 			  
 			  
 commande de pull : git pull
+
+
+commande pour ajouter une branche : git branche nom_de_la_branche
