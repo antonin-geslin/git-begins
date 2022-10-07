@@ -8,7 +8,7 @@ les 3 commandes de push : git add --all
 commande de pull : git pull
 
 
-commande pour ajouter une branche : git branche nom_de_la_branche
+commande pour ajouter une branche : git branch nom_de_la_branche
 
 pour mettre à jour le repo git et voir la nouvelle branche il faut : se déplacer dans la branche avec git checkout nom_de_la_branche
 								     et push avec git push --set-upstream origin nom_de_la_branche
